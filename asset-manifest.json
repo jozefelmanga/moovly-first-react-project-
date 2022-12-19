@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moovly-first-react-project-/static/css/main.334bdeb1.css",
+    "main.js": "/moovly-first-react-project-/static/js/main.bf8098b3.js",
+    "index.html": "/moovly-first-react-project-/index.html",
+    "static/media/search.svg": "/moovly-first-react-project-/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/moovly-first-react-project-/static/css/main.334bdeb1.css.map",
+    "main.bf8098b3.js.map": "/moovly-first-react-project-/static/js/main.bf8098b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.bf8098b3.js"
+  ]
+}
